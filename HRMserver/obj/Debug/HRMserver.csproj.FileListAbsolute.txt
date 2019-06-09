@@ -1,0 +1,361 @@
+C:\users\Administrator\Desktop\HRMserver\HRMserver\bin\Debug\HRMserver.exe.config
+C:\users\Administrator\Desktop\HRMserver\HRMserver\bin\Debug\HRMserver.exe
+C:\users\Administrator\Desktop\HRMserver\HRMserver\bin\Debug\HRMserver.pdb
+C:\users\Administrator\Desktop\HRMserver\HRMserver\obj\Debug\HRMserver.csprojResolveAssemblyReference.cache
+C:\users\Administrator\Desktop\HRMserver\HRMserver\obj\Debug\HRMserver.FormMain.resources
+C:\users\Administrator\Desktop\HRMserver\HRMserver\obj\Debug\HRMserver.FormLogin.resources
+C:\users\Administrator\Desktop\HRMserver\HRMserver\obj\Debug\HRMserver.Properties.Resources.resources
+C:\users\Administrator\Desktop\HRMserver\HRMserver\obj\Debug\HRMserver.csproj.GenerateResource.Cache
+C:\users\Administrator\Desktop\HRMserver\HRMserver\obj\Debug\HRMserver.exe
+C:\users\Administrator\Desktop\HRMserver\HRMserver\obj\Debug\HRMserver.pdb
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\bin\Debug\HRMserver.exe.config
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\bin\Debug\HRMserver.exe
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\bin\Debug\HRMserver.pdb
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\obj\Debug\HRMserver.csprojAssemblyReference.cache
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\obj\Debug\HRMserver.FormMain.resources
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\obj\Debug\HRMserver.FormLogin.resources
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\obj\Debug\HRMserver.Properties.Resources.resources
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\obj\Debug\HRMserver.csproj.GenerateResource.cache
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\obj\Debug\HRMserver.csproj.CoreCompileInputs.cache
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\obj\Debug\HRMserver.exe
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\obj\Debug\HRMserver.pdb
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\bin\Debug\HRMserver.BLL.dll
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\bin\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\bin\Debug\HRMserver.DAL.dll
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\bin\Debug\HRMserver.BLL.pdb
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\bin\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\bin\Debug\HRMserver.DAL.pdb
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver\obj\Debug\HRMserver.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.exe.config
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.exe
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.pdb
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.exe
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.pdb
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.Model.dll
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.DAL.dll
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.DAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.FormLogin.resources
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.FormMain.resources
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.FormMain_2.resources
+D:\czcs\两层\HRMserver\bin\Debug\HRMserver.exe.config
+D:\czcs\两层\HRMserver\obj\Debug\HRMserver.exe
+D:\czcs\两层\HRMserver\obj\Debug\HRMserver.pdb
+D:\czcs\两层\HRMserver\bin\Debug\HRMserver.exe
+D:\czcs\两层\HRMserver\bin\Debug\HRMserver.pdb
+D:\czcs\两层\HRMserver\bin\Debug\HRMserver.DAL.dll
+D:\czcs\两层\HRMserver\bin\Debug\HRMserver.Model.dll
+D:\czcs\两层\HRMserver\bin\Debug\HRMserver.DAL.pdb
+D:\czcs\两层\HRMserver\bin\Debug\HRMserver.Model.pdb
+D:\czcs\两层\HRMserver\obj\Debug\HRMserver.csprojResolveAssemblyReference.cache
+D:\czcs\两层\HRMserver\obj\Debug\HRMserver.FormLogin.resources
+D:\czcs\两层\HRMserver\obj\Debug\HRMserver.FormMain.resources
+D:\czcs\两层\HRMserver\obj\Debug\HRMserver.FormMain_2.resources
+D:\czcs\两层\HRMserver\obj\Debug\HRMserver.Properties.Resources.resources
+D:\czcs\两层\HRMserver\obj\Debug\HRMserver.csproj.GenerateResource.Cache
+D:\czcs\两层\HRMserver\obj\Debug\HRMserver.FormLogQuery.resources
+C:\Users\acm-4\Desktop\两层框架\HRMserver\obj\Debug\HRMserver.csprojAssemblyReference.cache
+C:\Users\acm-4\Desktop\两层框架\HRMserver\obj\Debug\HRMserver.FormLogin.resources
+C:\Users\acm-4\Desktop\两层框架\HRMserver\obj\Debug\HRMserver.FormMain.resources
+C:\Users\acm-4\Desktop\两层框架\HRMserver\obj\Debug\HRMserver.FormMain_2.resources
+C:\Users\acm-4\Desktop\两层框架\HRMserver\obj\Debug\HRMserver.Properties.Resources.resources
+C:\Users\acm-4\Desktop\两层框架\HRMserver\obj\Debug\HRMserver.csproj.GenerateResource.cache
+C:\Users\acm-4\Desktop\两层框架\HRMserver\obj\Debug\HRMserver.csproj.CoreCompileInputs.cache
+C:\Users\acm-4\Desktop\两层框架\HRMserver\obj\Debug\HRMserver.exe
+C:\Users\acm-4\Desktop\两层框架\HRMserver\obj\Debug\HRMserver.pdb
+C:\Users\acm-4\Desktop\两层框架\HRMserver\bin\Debug\HRMserver.exe.config
+C:\Users\acm-4\Desktop\两层框架\HRMserver\bin\Debug\HRMserver.exe
+C:\Users\acm-4\Desktop\两层框架\HRMserver\bin\Debug\HRMserver.pdb
+C:\Users\acm-4\Desktop\两层框架\HRMserver\bin\Debug\HRMserver.DAL.dll
+C:\Users\acm-4\Desktop\两层框架\HRMserver\bin\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\两层框架\HRMserver\bin\Debug\HRMserver.DAL.pdb
+C:\Users\acm-4\Desktop\两层框架\HRMserver\bin\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\两层框架\HRMserver\obj\Debug\HRMserver.csproj.CopyComplete
+C:\Users\acm-4\Desktop\两层框架\HRMserver\obj\Debug\HRMserver.FormLogList.resources
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.FormLogList.resources
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.csprojAssemblyReference.cache
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.FormLogin.resources
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.FormLogList.resources
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.FormMain.resources
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.FormMain_2.resources
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.Properties.Resources.resources
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.csproj.GenerateResource.cache
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.csproj.CoreCompileInputs.cache
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.exe
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.pdb
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.exe.config
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.exe
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.pdb
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.BLL.dll
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.DAL.dll
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.BLL.pdb
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.DAL.pdb
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\bin\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver\obj\Debug\HRMserver.csproj.CopyComplete
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\bin\Debug\HRMserver.exe.config
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\bin\Debug\HRMserver.exe
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\bin\Debug\HRMserver.pdb
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\bin\Debug\HRMserver.BLL.dll
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\bin\Debug\HRMserver.DAL.dll
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\bin\Debug\HRMserver.Model.dll
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\bin\Debug\HRMserver.BLL.pdb
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\bin\Debug\HRMserver.DAL.pdb
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\bin\Debug\HRMserver.Model.pdb
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\obj\Debug\HRMserver.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\obj\Debug\HRMserver.FormLogin.resources
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\obj\Debug\HRMserver.FormLogList.resources
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\obj\Debug\HRMserver.FormMain.resources
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\obj\Debug\HRMserver.FormMain_2.resources
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\obj\Debug\HRMserver.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\obj\Debug\HRMserver.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\obj\Debug\HRMserver.exe
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\obj\Debug\HRMserver.pdb
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver\obj\Debug\HRMserver.FormEmployeeManagement.resources
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.exe.config
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.exe
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.pdb
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.BLL.dll
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.DAL.dll
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.BLL.pdb
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.DAL.pdb
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.csprojAssemblyReference.cache
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.FormEmployeeManagement.resources
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.FormLogin.resources
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.FormLogList.resources
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.FormMain.resources
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.Properties.Resources.resources
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.csproj.GenerateResource.cache
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.csproj.CoreCompileInputs.cache
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.csproj.CopyComplete
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.exe
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.pdb
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.FormDepartmentManagement.resources
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.FormOldEmployee.resources
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.exe.config
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.exe
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.pdb
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.exe
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.pdb
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.BLL.dll
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.DAL.dll
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.Model.dll
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.BLL.pdb
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.DAL.pdb
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\bin\Debug\HRMserver.Model.pdb
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.FormDepartmentManagement.resources
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.FormEmployeeManagement.resources
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.FormLogin.resources
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.FormLogList.resources
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.FormOldEmployee.resources
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.FormMain.resources
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.FromEmployeeAddOrUpdate.resources
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver\obj\Debug\HRMserver.csproj.GenerateResource.Cache
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.exe.config
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.exe
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.pdb
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.BLL.dll
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.DAL.dll
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.BLL.pdb
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.DAL.pdb
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.csprojAssemblyReference.cache
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.FormDepartmentManagement.resources
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.FormEmployeeManagement.resources
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.FormLogin.resources
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.FormLogList.resources
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.FormOldEmployee.resources
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.FormMain.resources
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.FromEmployeeAddOrUpdate.resources
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.Properties.Resources.resources
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.csproj.GenerateResource.cache
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.csproj.CoreCompileInputs.cache
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.csproj.CopyComplete
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.exe
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.pdb
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\bin\Debug\NPOI.dll
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\bin\Debug\NPOI.OOXML.dll
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.exe.config
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.exe
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.pdb
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.exe
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.pdb
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.BLL.dll
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.DAL.dll
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.Model.dll
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.BLL.pdb
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.DAL.pdb
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\bin\Debug\HRMserver.Model.pdb
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.FormDepartmentManagement.resources
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.FormEmployeeManagement.resources
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.FormLogin.resources
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.FormLogList.resources
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.FormOldEmployee.resources
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.FormMain.resources
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.FromEmployeeAddOrUpdate.resources
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.Properties.Resources.resources
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver\obj\Debug\HRMserver.FromSalaryManagement.resources
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\bin\Debug\HRMserver.exe.config
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\bin\Debug\HRMserver.exe
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\bin\Debug\HRMserver.pdb
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\bin\Debug\HRMserver.BLL.dll
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\bin\Debug\HRMserver.DAL.dll
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\bin\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\bin\Debug\NPOI.dll
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\bin\Debug\NPOI.OOXML.dll
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\bin\Debug\HRMserver.BLL.pdb
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\bin\Debug\HRMserver.DAL.pdb
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\bin\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\obj\Debug\HRMserver.csprojAssemblyReference.cache
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\obj\Debug\HRMserver.FormDepartmentManagement.resources
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\obj\Debug\HRMserver.FormEmployeeManagement.resources
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\obj\Debug\HRMserver.FormLogin.resources
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\obj\Debug\HRMserver.FormLogList.resources
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\obj\Debug\HRMserver.FormMain.resources
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\obj\Debug\HRMserver.Properties.Resources.resources
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\obj\Debug\HRMserver.csproj.GenerateResource.cache
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\obj\Debug\HRMserver.csproj.CoreCompileInputs.cache
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\obj\Debug\HRMserver.csproj.CopyComplete
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\obj\Debug\HRMserver.exe
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\obj\Debug\HRMserver.pdb
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\obj\Debug\HRMserver.FormDictionarymanagement.resources
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\obj\Debug\HRMserver.FormEmployeeAddOrUpdate.resources
+C:\Users\acm-4\Desktop\4.8 三层\HRMserver\obj\Debug\HRMserver.FormSalaryManagement.resources
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.exe.config
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.exe
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.pdb
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.exe
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.pdb
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.BLL.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.DAL.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.Model.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CRVsPackageLib.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\VSLangProj.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\VsWebSite.Interop.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\EnvDTE80.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\FlashControlV71.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.BLL.pdb
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.DAL.pdb
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.Model.pdb
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.csproj.HRMserver.exe.config
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormDepartmentManagement.resources
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormDictionaryManagement.resources
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormEmployeeManagement.resources
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormLogin.resources
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormLogList.resources
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormMain.resources
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormEmployeeAddOrUpdate.resources
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormSalaryManagement.resources
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.Properties.Resources.resources
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormSalaryReport.resources
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.exe.config
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.exe
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.pdb
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.BLL.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.DAL.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\NPOI.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\NPOI.OOXML.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\CRVsPackageLib.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\EnvDTE.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\VSLangProj.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\VsWebSite.Interop.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\EnvDTE80.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\FlashControlV71.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\stdole.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\Microsoft.MSXML.dll
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.BLL.pdb
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.DAL.pdb
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.csprojAssemblyReference.cache
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.exe.config
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormSalaryReport.resources
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormDepartmentManagement.resources
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormDictionaryManagement.resources
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormEmployeeManagement.resources
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormLogin.resources
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormLogList.resources
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormMain.resources
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormEmployeeAddOrUpdate.resources
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormSalaryManagement.resources
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.Properties.Resources.resources
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.csproj.GenerateResource.cache
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.csproj.CoreCompileInputs.cache
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.csproj.CopyComplete
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.exe
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.pdb
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormOperatorManagement.resources
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormAccountManagement.resources
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormCalculator.resources
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormDraw.resources
+C:\Users\acm-4\Desktop\201730210321陈卓丞\HRMserver\obj\Debug\HRMserver.FormDrawSet.resources

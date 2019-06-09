@@ -1,0 +1,79 @@
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver.Model\bin\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver.Model\bin\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver.Model\obj\Debug\HRMserver.Model.csprojAssemblyReference.cache
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver.Model\obj\Debug\HRMserver.Model.csproj.CoreCompileInputs.cache
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver.Model\obj\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\C# Source\HRMserver\HRMserver.Model\obj\Debug\HRMserver.Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver.Model\bin\Debug\HRMserver.Model.dll
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver.Model\bin\Debug\HRMserver.Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver.Model\obj\Debug\HRMserver.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver.Model\obj\Debug\HRMserver.Model.dll
+C:\Users\Administrator\Desktop\新建文件夹\HRMserver.Model\obj\Debug\HRMserver.Model.pdb
+D:\czcs\两层\HRMserver.Model\bin\Debug\HRMserver.Model.dll
+D:\czcs\两层\HRMserver.Model\bin\Debug\HRMserver.Model.pdb
+D:\czcs\两层\HRMserver.Model\obj\Debug\HRMserver.Model.csprojResolveAssemblyReference.cache
+D:\czcs\两层\HRMserver.Model\obj\Debug\HRMserver.Model.dll
+D:\czcs\两层\HRMserver.Model\obj\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\两层框架\HRMserver.Model\bin\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\两层框架\HRMserver.Model\bin\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\两层框架\HRMserver.Model\obj\Debug\HRMserver.Model.csprojAssemblyReference.cache
+C:\Users\acm-4\Desktop\两层框架\HRMserver.Model\obj\Debug\HRMserver.Model.csproj.CoreCompileInputs.cache
+C:\Users\acm-4\Desktop\两层框架\HRMserver.Model\obj\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\两层框架\HRMserver.Model\obj\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver.Model\bin\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver.Model\bin\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver.Model\obj\Debug\HRMserver.Model.csprojAssemblyReference.cache
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver.Model\obj\Debug\HRMserver.Model.csproj.CoreCompileInputs.cache
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver.Model\obj\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\新建文件夹\HRMserver.Model\obj\Debug\HRMserver.Model.pdb
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver.Model\bin\Debug\HRMserver.Model.dll
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver.Model\bin\Debug\HRMserver.Model.pdb
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver.Model\obj\Debug\HRMserver.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver.Model\obj\Debug\HRMserver.Model.dll
+C:\Users\Administrator\Desktop\3.19 三层\HRMserver.Model\obj\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver.Model\bin\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver.Model\bin\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver.Model\obj\Debug\HRMserver.Model.csprojAssemblyReference.cache
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver.Model\obj\Debug\HRMserver.Model.csproj.CoreCompileInputs.cache
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver.Model\obj\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\3.25 三层\HRMserver.Model\obj\Debug\HRMserver.Model.pdb
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver.Model\bin\Debug\HRMserver.Model.dll
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver.Model\bin\Debug\HRMserver.Model.pdb
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver.Model\obj\Debug\HRMserver.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver.Model\obj\Debug\HRMserver.Model.dll
+C:\Users\Administrator\Desktop\3.25 三层\HRMserver.Model\obj\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver.Model\bin\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver.Model\bin\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver.Model\obj\Debug\HRMserver.Model.csprojAssemblyReference.cache
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver.Model\obj\Debug\HRMserver.Model.csproj.CoreCompileInputs.cache
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver.Model\obj\Debug\HRMserver.Model.dll
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver.Model\obj\Debug\HRMserver.Model.pdb
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver.Model\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver.Model\bin\Debug\NPOI.dll
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver.Model\bin\Debug\NPOI.OOXML.dll
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver.Model\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver.Model\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver.Model\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\acm-4\Desktop\4.1 三层\HRMserver.Model\obj\Debug\HRMserver.Model.csproj.CopyComplete
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver.Model\bin\Debug\HRMserver.Model.dll
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver.Model\bin\Debug\HRMserver.Model.pdb
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver.Model\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver.Model\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver.Model\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver.Model\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver.Model\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver.Model\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver.Model\obj\Debug\HRMserver.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver.Model\obj\Debug\HRMserver.Model.dll
+C:\Users\Administrator\Desktop\4.1 三层\HRMserver.Model\obj\Debug\HRMserver.Model.pdb
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver.Model\bin\Debug\HRMserver.Model.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver.Model\bin\Debug\HRMserver.Model.pdb
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver.Model\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver.Model\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver.Model\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver.Model\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver.Model\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver.Model\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver.Model\obj\Debug\HRMserver.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver.Model\obj\Debug\HRMserver.Model.dll
+C:\Users\Administrator\Desktop\201730210321陈卓丞\HRMserver.Model\obj\Debug\HRMserver.Model.pdb
